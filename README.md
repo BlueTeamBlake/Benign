@@ -98,4 +98,3 @@ Through Splunk analysis, we uncovered a malicious payload downloaded using `cert
 
 ---
 
-## 📌 To-Do (You can fill this in)

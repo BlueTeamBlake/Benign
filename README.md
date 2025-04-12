@@ -10,7 +10,7 @@ This lab investigates a suspected compromise on a host in the HR department. Usi
 
 - IT Department: James, Moin, Katrina  
 - HR Department: Haroon, Chris, Diana  
-- Marketing Department:** Bell, Amelia, Deepak   
+- Marketing Department: Bell, Amelia, Deepak   
 ---
 
 ## ❓ Questions & Answers

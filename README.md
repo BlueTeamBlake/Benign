@@ -8,9 +8,9 @@ This lab investigates a suspected compromise on a host in the HR department. Usi
 
 ### 🧑‍💼 Network Segmentation
 
-- ** IT Department:** James, Moin, Katrina  
-- ** HR Department:** Haroon, Chris, Diana  
-- ** Marketing Department:** Bell, Amelia, Deepak   
+- IT Department: James, Moin, Katrina  
+- HR Department: Haroon, Chris, Diana  
+- Marketing Department:** Bell, Amelia, Deepak   
 ---
 
 ## ❓ Questions & Answers
